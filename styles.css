@@ -1,10 +1,10 @@
 body {
-    background: lightcoral;
+    background: rgb(109, 167, 114);
     font-family:Arial, Helvetica, sans-serif
 }
 
 .assignment {
-    background: rgb(109, 167, 114);
+    background: lightcoral;
     display:flex;
     padding: 10px;
     margin: 10px;
@@ -12,10 +12,16 @@ body {
 
 .assignment img {
     width: 200px;
-    padding: 10px;
+    border: 2px solid darkblue;
+    margin-right: 10px;
 }
 
 h1{
     color: darkblue;
     text-align: center;
+}
+
+a{
+    text-decoration:none;
+    color: darkgreen;
 }
