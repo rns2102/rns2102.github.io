@@ -3,6 +3,10 @@ body {
     font-family:Arial, Helvetica, sans-serif
 }
 
+.assignments{
+    display: ruby;
+}
+
 .assignment {
     background: lightcoral;
     display:flex;
